@@ -1,0 +1,5 @@
+request
+pandas
+lyricsgenius
+seaborn
+matplotlib.pyplot
